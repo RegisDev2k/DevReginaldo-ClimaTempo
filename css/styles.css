@@ -53,8 +53,7 @@ h1 {
     flex: 1;
     background: transparent;
     border: none;
-    padding: 15px 20px;
-    font-size: 1rem;
+    padding: 10px 5px;
     color: #fff;
     outline: none;
 }
@@ -63,7 +62,7 @@ h1 {
     background: #3a6bc5;
     border: none;
     border-radius: 50px;
-    padding: 10px 20px;
+    padding: 10px 15px;
     color: white;
     cursor: pointer;
     font-weight: bold;
